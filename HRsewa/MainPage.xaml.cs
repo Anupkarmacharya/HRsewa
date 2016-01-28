@@ -48,15 +48,11 @@ namespace HRsewa
                         MainFrame.Navigate(typeof(ListofOrganization));
                         break;
                     case "Complain":
-                        MainFrame.Navigate(typeof(Complain1));
+                        MainFrame.Navigate(typeof(Complain2));
                         break;
                         //case "Contact":
                         //    MainFrame.Navigate(typeof(Contact));
                         //    break;
-
-
-
-
 
                 }
                 MySplitView.IsPaneOpen = false;

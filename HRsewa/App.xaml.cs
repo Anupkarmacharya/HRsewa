@@ -30,7 +30,7 @@ namespace HRsewa
         /// executed, and as such is the logical equivalent of main() or WinMain().
         /// </summary>
         ///  public static MobileServiceClient MobileService 
-        public static MobileServiceClient MobileService= new MobileServiceClient("http://hrsewa.azurewebsites.nett");
+        public static MobileServiceClient MobileService= new MobileServiceClient("http://hrsewa.azurewebsites.net");
         public App()
         {
             this.InitializeComponent();

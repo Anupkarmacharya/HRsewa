@@ -157,7 +157,7 @@ namespace HRsewa.HRsewa_XamlTypeInfo
         private void InitTypeTables()
         {
             _typeNameTable = new string[69];
-            _typeNameTable[0] = "HRsewa.Complain1";
+            _typeNameTable[0] = "HRsewa.Complain2";
             _typeNameTable[1] = "Windows.UI.Xaml.Controls.Page";
             _typeNameTable[2] = "Windows.UI.Xaml.Controls.UserControl";
             _typeNameTable[3] = "HRsewa.Home";
@@ -228,7 +228,7 @@ namespace HRsewa.HRsewa_XamlTypeInfo
             _typeNameTable[68] = "Bing.Maps.Directions.WarningSeverity";
 
             _typeTable = new global::System.Type[69];
-            _typeTable[0] = typeof(global::HRsewa.Complain1);
+            _typeTable[0] = typeof(global::HRsewa.Complain2);
             _typeTable[1] = typeof(global::Windows.UI.Xaml.Controls.Page);
             _typeTable[2] = typeof(global::Windows.UI.Xaml.Controls.UserControl);
             _typeTable[3] = typeof(global::HRsewa.Home);
@@ -331,7 +331,7 @@ namespace HRsewa.HRsewa_XamlTypeInfo
             return -1;
         }
 
-        private object Activate_0_Complain1() { return new global::HRsewa.Complain1(); }
+        private object Activate_0_Complain2() { return new global::HRsewa.Complain2(); }
         private object Activate_3_Home() { return new global::HRsewa.Home(); }
         private object Activate_4_ListofOrganization() { return new global::HRsewa.ListofOrganization(); }
         private object Activate_5_MainPage() { return new global::HRsewa.MainPage(); }
@@ -412,9 +412,9 @@ namespace HRsewa.HRsewa_XamlTypeInfo
             switch (typeIndex)
             {
 
-            case 0:   //  HRsewa.Complain1
+            case 0:   //  HRsewa.Complain2
                 userType = new global::HRsewa.HRsewa_XamlTypeInfo.XamlUserType(this, typeName, type, GetXamlTypeByName("Windows.UI.Xaml.Controls.Page"));
-                userType.Activator = Activate_0_Complain1;
+                userType.Activator = Activate_0_Complain2;
                 userType.SetIsLocalType();
                 xamlType = userType;
                 break;

@@ -1,7 +1,5 @@
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\App.g.i.cs
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\App.g.cs
-C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain1.g.i.cs
-C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain1.g.cs
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Home.g.i.cs
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Home.g.cs
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\ListofOrganization.g.i.cs
@@ -12,13 +10,11 @@ C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Deb
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\NHRC.g.cs
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\XamlTypeInfo.g.cs
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\App.xaml
-C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain1.xaml
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Home.xaml
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\ListofOrganization.xaml
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\MainPage.xaml
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\NHRC.xaml
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\App.xbf
-C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain1.xbf
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Home.xbf
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\ListofOrganization.xbf
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\MainPage.xbf
@@ -27,7 +23,6 @@ C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Deb
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\HRsewa.csprojResolveAssemblyReference.cache
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\ApplicationInsights.config
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\App.xbf
-C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Complain1.xbf
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Home.xbf
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\ListofOrganization.xbf
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\MainPage.xbf
@@ -226,3 +221,8 @@ C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Deb
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Microsoft.WindowsAzure.Mobile.Ext.pri.xml
 C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Complain2.xbf
+C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain2.g.i.cs
+C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain2.g.cs
+C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain2.xaml
+C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\Complain2.xbf
