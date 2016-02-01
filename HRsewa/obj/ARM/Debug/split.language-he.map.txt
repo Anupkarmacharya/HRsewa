@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-he"
+"ResourceDimensions"		"language-he"
+
+[Files]
+"C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\ARM\Debug\split.language-he.pri"			"resources.pri"

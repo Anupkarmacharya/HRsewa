@@ -10,25 +10,25 @@
     <PackageArchitecture>x86</PackageArchitecture>
     <PackageIdentityName>1d2eab10-1333-4190-a9fe-579da114f752</PackageIdentityName>
     <IntermediateOutputPath>C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\</IntermediateOutputPath>
-    <RegisteredManifestChecksum>A59FEA21552D103A2D7EAC73D8648FA176507FCCFA701CCF721B5D6B5C4E1909</RegisteredManifestChecksum>
-    <RegisteredPackageMoniker>1d2eab10-1333-4190-a9fe-579da114f752_1.0.0.0_x86__zk7ckdjhm4r00</RegisteredPackageMoniker>
-    <RegisteredUserModeAppID>1d2eab10-1333-4190-a9fe-579da114f752_zk7ckdjhm4r00!App</RegisteredUserModeAppID>
-    <RegisteredPackageID>1d2eab10-1333-4190-a9fe-579da114f752</RegisteredPackageID>
-    <RegisteredPackagePublisher>CN=Akshaya</RegisteredPackagePublisher>
-    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <RegisteredManifestChecksum>F955608AF75BA124CA6764127EBB06AC97C0074684592EB6E4CF6570DC3D51E1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>20444akshayamdr.HRsewa_1.1.0.0_x86__41852sn4azym0</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>20444akshayamdr.HRsewa_41852sn4azym0!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>20444akshayamdr.HRsewa</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=2F536DAD-E296-48CC-9882-120804A857FF</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
     <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
   </PropertyGroup>
   <ItemGroup>
     <AppXManifest Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2016-01-28T04:42:58.455</Modified>
+      <Modified>2016-01-31T05:20:20.942</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\HRsewa.exe">
       <PackagePath>entrypoint\HRsewa.exe</PackagePath>
-      <Modified>2016-01-28T04:42:53.000</Modified>
+      <Modified>2016-01-31T05:20:15.248</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\AppData\Local\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\Bing.Maps.Xaml\1.313.0825.0\References\commonconfiguration\neutral\Bing.Maps.winmd">
       <PackagePath>Bing.Maps.winmd</PackagePath>
@@ -786,9 +786,15 @@
       <PackagePath>ApplicationInsights.config</PackagePath>
       <Modified>2016-01-26T17:50:29.490</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2016-01-26T17:49:49.025</Modified>
+    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-30T08:37:48.151</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-01-30T08:38:02.660</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -797,12 +803,12 @@
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\SplashScreen.scale-200.png">
       <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T15:24:42.000</Modified>
+      <Modified>2016-01-30T08:43:43.359</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Square150x150Logo.scale-200.png">
       <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2015-10-10T15:24:42.000</Modified>
+      <Modified>2016-01-30T08:38:11.730</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Square44x44Logo.scale-200.png">
       <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
@@ -824,13 +830,17 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2015-10-10T15:24:42.000</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2016-01-26T17:49:49.025</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf">
       <PackagePath>Bing.Maps\Themes\Generic.xbf</PackagePath>
-      <Modified>2016-01-28T04:42:51.937</Modified>
+      <Modified>2016-01-31T05:20:14.151</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\HRsewa.xr.xml">
       <PackagePath>HRsewa.xr.xml</PackagePath>
-      <Modified>2016-01-28T04:42:49.977</Modified>
+      <Modified>2016-01-31T05:07:25.241</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -838,11 +848,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2016-01-28T04:42:57.553</Modified>
+      <Modified>2016-01-31T05:20:20.004</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Core\HRsewa.exe">
       <PackagePath>HRsewa.exe</PackagePath>
-      <Modified>2016-01-28T04:42:58.443</Modified>
+      <Modified>2016-01-31T05:20:20.931</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

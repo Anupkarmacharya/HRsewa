@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ro"
+"ResourceDimensions"		"language-ro-ro"
+
+[Files]
+"C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x64\Debug\split.language-ro.pri"			"resources.pri"

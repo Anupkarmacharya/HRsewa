@@ -5,7 +5,9 @@
     xmlns:local="using:HRsewa"
     xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-    mc:Ignorable="d">
+    mc:Ignorable="d"
+      xmlns:bm="using:Bing.Maps"
+      >
 
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <StackPanel>
@@ -14,7 +16,19 @@
             <TextBlock Text="Website: www.nhrcnepal.org/" />
             <TextBlock Text="Description" Margin="10,10,0,0" />
             <StackPanel  Height="Auto" Width="1024" Margin="00,20,0,0" Orientation="Horizontal">
-                <Maps:Map Width="512" HorizontalAlignment="Right" Margin=" 20,0,0,0" />
+                <bm:Map x:ConnectionId='1' ZoomLevel="15" Credentials="OjbiwNR2HGPeeZHYSxGi~ZMk7jvaWKlBW--4VBNU6OA~AnnOzVsUkZLeTnVcmczSckUjoXvm6K1ZjgMTO9CDoJ02KRHEDDdPsah_JCh2X3S2" x:Name="myMap" Width="512" HorizontalAlignment="Right" Margin=" 20,0,0,0">
+                    <bm:Map.Center>
+                        <bm:Location Latitude="27.6988174" Longitude="85.2981097"  />
+                    </bm:Map.Center>
+                    <bm:Map.Children>
+                        <bm:Pushpin x:ConnectionId='2'                        >
+                            <bm:MapLayer.Position>
+                                <bm:Location Latitude="27.6988174" Longitude="85.2981097" />
+                            </bm:MapLayer.Position>
+                        </bm:Pushpin>
+                    </bm:Map.Children>
+                </bm:Map>
+                <!--<Maps:Map Width="512" HorizontalAlignment="Right" Margin=" 20,0,0,0" />-->
                 <ScrollViewer Margin="50,0,0,0" HorizontalAlignment="Left" Height="500" Width="450">
 
                     <TextBlock Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras lectus augue, finibus et tincidunt ut, mattis in enim. Curabitur eu lectus et nulla finibus congue ac ac quam. Nam aliquam eleifend magna eu venenatis. Vivamus imperdiet porttitor elementum. Suspendisse sed auctor erat. Aliquam lacus magna, molestie nec ullamcorper in, suscipit in ligula. Vivamus non eleifend sapien, id gravida elit. Nunc volutpat purus magna, eu semper felis vehicula ut. Donec urna ex, gravida sed viverra vitae, efficitur non purus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Ut varius sit amet sem ut porta. Aliquam aliquam at nisi eget posuere. Nullam sed nisl nibh. Curabitur euismod finibus magna vel lacinia. Ut quam arcu, euismod ut laoreet euismod, rhoncus et elit. Aenean posuere tortor eget lectus luctus, non tincidunt arcu rutrum.

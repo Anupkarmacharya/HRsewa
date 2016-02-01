@@ -1,0 +1,286 @@
+﻿<Page
+    x:Class="HRsewa.ListofOrganization"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:HRsewa"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+        <SplitView x:ConnectionId='1' x:Name="MySplitView" DisplayMode="CompactInline" IsPaneOpen="True">
+            <SplitView.Pane>
+                <StackPanel Margin="40,30,60,0">
+                    <ScrollViewer  Height="Auto"  VerticalScrollBarVisibility="Auto"  >
+                        <StackPanel>
+                            <RadioButton x:ConnectionId='2'                           >
+                                <TextBlock Text="Nepal Human Rights Commission" TextWrapping="WrapWholeWords"  />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="Nepal Association of Foreign Employment Agencies" TextWrapping="WrapWholeWords" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="Amnesty International" TextWrapping="WrapWholeWords" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="hello" />
+                            </RadioButton>
+                            <RadioButton>
+                                <TextBlock Text="world" />
+                            </RadioButton>
+                        </StackPanel>
+
+
+                    </ScrollViewer>
+
+
+                </StackPanel>
+            </SplitView.Pane>
+            <Frame x:ConnectionId='3' x:Name="MainFrames" />
+        </SplitView>
+    </Grid>
+</Page>
+

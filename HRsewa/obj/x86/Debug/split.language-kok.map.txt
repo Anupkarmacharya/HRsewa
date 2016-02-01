@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-kok"
+"ResourceDimensions"		"language-kok"
+
+[Files]
+"C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\obj\x86\Debug\split.language-kok.pri"			"resources.pri"

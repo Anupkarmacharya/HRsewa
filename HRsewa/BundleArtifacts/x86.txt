@@ -1,0 +1,2 @@
+MainPackage=C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\HRsewa_1.0.0.0_x86_Debug.appx
+SymbolPackage=C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\AppPackages\HRsewa_1.0.0.0_Debug_Test\HRsewa_1.0.0.0_x86_Debug.appxsym

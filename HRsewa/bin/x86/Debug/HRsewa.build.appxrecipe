@@ -588,8 +588,13 @@
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\ApplicationInsights.config">
       <PackagePath>ApplicationInsights.config</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Square150x150Logo.scale-100.png">
+      <PackagePath>Assets\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Square150x150Logo.scale-400.png">
+      <PackagePath>Assets\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -617,6 +622,9 @@
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Akshaya\documents\visual studio 2015\Projects\HRsewa\HRsewa\bin\x86\Debug\Bing.Maps\Themes\Generic.xbf">
       <PackagePath>Bing.Maps\Themes\Generic.xbf</PackagePath>
